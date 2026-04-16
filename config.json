@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "clientId": "CLİENT ID",
+    "guildId": "GUİLD ID",
+    "yetkiliRolId": "YETKİLİ ROL ID",
+    "ticketCategory": "TİCKET KATEGORİ ID",
+    "logChannel": "TİCKET LOG KANALI ID"
+}
